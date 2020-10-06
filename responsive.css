@@ -10,12 +10,12 @@
 	}
 	
 	p, li, td {
-	font-size: 10px;
+	font-size: 7px;
 }
 	/*header*/
 	li {
 		padding-right: 5px;
-		padding-left: 10px;
+		padding-left: 5px;
 		padding-top: 15px;
 	}
 }
