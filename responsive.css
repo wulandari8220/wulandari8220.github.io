@@ -6,8 +6,16 @@
 /*Layout Smartphone*/
 @media (max-width: 670px) {
 	h1 {
-		font-size: 18px;
+		font-size: 10px;
 	}
 	
+	p, li, td {
+	font-size: 10px;
+}
 	/*header*/
+	li {
+		padding-right: 5px;
+		padding-left: 10px;
+		padding-top: 15px;
+	}
 }
