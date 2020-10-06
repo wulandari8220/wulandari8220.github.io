@@ -1,0 +1,13 @@
+/*Layout Tablet*/
+@media (max-width: 1000px) {
+	
+}
+
+/*Layout Smartphone*/
+@media (max-width: 670px) {
+	h1 {
+		font-size: 18px;
+	}
+	
+	/*header*/
+}
