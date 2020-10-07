@@ -1,6 +1,6 @@
 
 /*Layout Smartphone*/
-@media all and (max-width: 670px) {
+@media all and(max-width: 670px) {
 
 p, li, td {
 	font-size: 8px;
@@ -22,4 +22,11 @@ p, li, td {
 	width: 50px;
 }
 
+.id {
+	font-size: 5px;
+}
+
+.eng {
+	font-size: 5px;
+}
 }
