@@ -5,7 +5,7 @@
 
 /*Layout Smartphone*/
 @media all and (max-width: 670px) {
-h1 {
+/*h1 {
 	font-size: 7px;
 }
 	
@@ -16,11 +16,11 @@ p, li, td {
 .organisasi h1 {
 	font-size: 5px;
 }
-
+*/
 /*header*/
-li {
+/*li {
 	padding-right: 5px;
 	padding-left: 5px;
 	padding-top: 15px;
-	}
+	}*/
 }
