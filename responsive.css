@@ -6,6 +6,20 @@ p, li, td {
 	font-size: 8px;
 }
 
-.tab_width {
-	float: right;
+#rectangle_id {
+	width: 70px;
+}
+
+#rectangle_id_level {
+	width: 65px;
+}
+
+#rectangle_eng {
+	width: 70px;
+}
+
+#rectangle_eng_level {
+	width: 50px;
+}
+
 }
