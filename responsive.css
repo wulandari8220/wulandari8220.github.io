@@ -6,4 +6,6 @@ p, li, td {
 	font-size: 8px;
 }
 
+.tab_width {
+	float: right;
 }
