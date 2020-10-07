@@ -12,6 +12,11 @@ h1 {
 p, li, td {
 	font-size: 7px;
 }
+
+.organisasi h1 {
+	font-size: 5px;
+}
+
 /*header*/
 li {
 	padding-right: 5px;
