@@ -414,4 +414,10 @@ td{
 	background-color: white;
 }
 
+.menu-icon {
+  color: white;
+  font-size: 25px;
+  display: none;
+}
+
 

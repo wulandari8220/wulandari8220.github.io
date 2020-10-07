@@ -1,32 +1,10 @@
-
-/*Layout Smartphone*/
-@media all and(max-width: 670px) {
-
-p, li, td {
-	font-size: 8px;
-}
-
-#rectangle_id {
-	width: 70px;
-}
-
-#rectangle_id_level {
-	width: 65px;
-}
-
-#rectangle_eng {
-	width: 70px;
-}
-
-#rectangle_eng_level {
-	width: 50px;
-}
-
-.id {
-	font-size: 5px;
-}
-
-.eng {
-	font-size: 5px;
-}
+/*layout tablet*/
+@media all and(max-width: 1000px) {
+	.header_color {
+    display: none;
+  }
+  
+  .menu-icon {
+    display: block;
+  }
 }
