@@ -1,12 +1,12 @@
 /*Layout Tablet*/
-@media (max-width: 1000px) {
+@media all and (max-width: 1000px) {
 	
 }
 
 /*Layout Smartphone*/
-@media (max-width: 670px) {
+@media all and (max-width: 670px) {
 	h1 {
-		font-size: 10px;
+		font-size: 7px;
 	}
 	
 	p, li, td {
